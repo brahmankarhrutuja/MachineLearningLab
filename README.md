@@ -1,4 +1,4 @@
-# Machine Learning Lab Repository
+## Machine Learning Lab Repository
 
 Welcome to my Machine Learning Lab repository! This repository serves as a workspace for experiments, projects, and resources related to machine learning and artificial intelligence.
 
@@ -7,9 +7,9 @@ Welcome to my Machine Learning Lab repository! This repository serves as a works
 The Machine Learning Lab is a dedicated space for exploring, researching, and applying machine learning techniques. Here, I will document my journey in the field, share insights, and collaborate with fellow machine learning enthusiasts.
 
 ## Projects
-Project 1 - Decision Tree
-Project 2 - will update
-Project 3 - Will Update
+Project 1 - Decision Tree <br>
+Project 2 - will update <br>
+Project 3 - Will Update <br>
 
 ## License
 
